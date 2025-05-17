@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Apr 2025 15:42:13 at https://itindeedtheme.com//templates/cityboard/homepage1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://itindeedtheme.com//templates/cityboard/homepage1.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://itindeedtheme.com//templates/cityboard/homepage1.html -O1 "D:\html and css , bootstrap\cityboard" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://itindeedtheme.com//templates/cityboard/homepage1.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:43:17	Error: 	"Not Found" (404) at link https://itindeedtheme.com/templates/cityboard/assets/placeholder/homepage3/heder3-bg1.png (from https://itindeedtheme.com//templates/cityboard/assets/css/style.css)
+15:43:17	Error: 	"Not Found" (404) at link https://itindeedtheme.com/templates/cityboard/assets/placeholder/homepage3/choose-bg.png (from https://itindeedtheme.com//templates/cityboard/assets/css/style.css)
+15:43:17	Error: 	"Not Found" (404) at link https://itindeedtheme.com/templates/cityboard/assets/placeholder/homepage3/home3-bg3.png (from https://itindeedtheme.com//templates/cityboard/assets/css/style.css)
+15:43:17	Error: 	"Not Found" (404) at link https://itindeedtheme.com/templates/cityboard/assets/placeholder/about/about-round-img.png (from https://itindeedtheme.com//templates/cityboard/about_us.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 132 links scanned, 127 files written (34168218 bytes overall) [29034039 bytes received at 453656 bytes/sec], 8740443 bytes transferred using HTTP compression in 52 files, ratio 37%, 13.2 requests per connection
+(4 errors, 0 warnings, 0 messages)
